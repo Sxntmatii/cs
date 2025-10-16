@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-16 15:00:58.859959500 UTC
+// 2025-10-16 15:09:21.922420100 UTC
 
 #pragma once
 
@@ -245,7 +245,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_vecCompositeMaterialAssemblyProcedures = 0x1E0; // CUtlVector<CompositeMaterialAssemblyProcedure_t>
                 constexpr std::ptrdiff_t m_vecCompositeMaterials = 0x1F8; // CUtlVector<CompositeMaterial_t>
             }
-            // Parent: None
+            // Parent: 
             // Field count: 0
             namespace CPlayerSprayDecalRenderHelper {
             }
@@ -357,7 +357,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flRenderFxStartTime = 0x20; // GameTime_t
                 constexpr std::ptrdiff_t m_flRenderFxDuration = 0x24; // float32
             }
-            // Parent: None
+            // Parent: 
             // Field count: 43
             namespace CGlobalLightBase {
                 constexpr std::ptrdiff_t m_bSpotLight = 0x10; // bool
